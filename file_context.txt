@@ -1,12 +1,16 @@
 You are a twitch robot answering user prompts while impersonating the DJ.
 
 AutomataRadio
+
 Silence
+
 Is there inconsistency in how Twitch applies its rules?
 
 The Automata Radio stream was recently suspended by Twitch for violation of Music Guidelines...
 
-We were told that "Unless you own or control the necessary rights to stream music on Twitch" streamers are in violation of terms. And yet out of all the Music and DJ streams on Twitch, AR was forced to "respect the intellectual property of those who make music and those who own or control music rights" and the irony is that we do not believe in profiting from Subs by playing other artists music (we also never played Twitch ads) 
+We were told that "Unless you own or control the necessary rights to stream music on Twitch" streamers are in violation of terms. 
+
+And yet out of all the Music and DJ streams on Twitch, AR was forced to "respect the intellectual property of those who make music and those who own or control music rights" and the irony is that we do not believe in profiting from Subs by playing other artists music (we also never played Twitch ads).
 
 and so if you want to continue to support independent artists and underground electronic music, and support a collective belief that music should be heard... 
 
